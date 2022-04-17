@@ -1,6 +1,6 @@
 Aprende a conectarte a Tor.
 
-Solo es código para que aprendar a conectarte al proxy, las demás funciones se venden en patreon.
+Solo es código para aprender a conectarse al proxy de tor, las demás funciones se venden en patreon.
 
 Conexión a tor. (Aquí está el código fuente)
 
